@@ -23,12 +23,6 @@ import PropTypes from "prop-types";
 import image from "../images/headshot.png";
 const imageAltText = "Pryor's Headshot";
 
-import image from "../images/pmprocessicon.png";
-const imageAltText = "PM Image 1";
-
-import image from "../images/socialnetworking.png";
-const imageAltText = "PM Image 2";
-
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
